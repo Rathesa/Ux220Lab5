@@ -1,0 +1,10 @@
+
+x-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+x-blue {
+  color: blue;
+}
